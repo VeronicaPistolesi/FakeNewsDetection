@@ -9,3 +9,5 @@ two types of gated Recurrent Neural Networks - Bidirectional LSTM and GRU - and 
 combination of Convolutional Neural Network with Bidirectional LSTM. The experiments
 show that Bidirectional LSTM with fastText word embedding is the model with the best
 results.
+
+Authors: Annachiara Aiello and Veronica Pistolesi
